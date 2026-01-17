@@ -1,0 +1,2 @@
+Keep this running to catch events.
+Use testnet for learning.
