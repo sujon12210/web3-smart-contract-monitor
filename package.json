@@ -1,0 +1,12 @@
+{
+  "name": "web3-smart-contract-monitor",
+  "version": "1.0.0",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.0",
+    "dotenv": "^16.0.0"
+  }
+}
